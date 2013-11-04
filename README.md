@@ -1,5 +1,7 @@
 # Tateti
 
+[![Build Status](https://travis-ci.org/llopez/Tateti.png?branch=master)](https://travis-ci.org/llopez/Tateti)
+
 It is a very very simple ruby application that describes the playing of Tateti game.
 
 ## Installation
