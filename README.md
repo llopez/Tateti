@@ -6,7 +6,7 @@ It is a very very simple ruby application that describes the playing of Tateti g
 
 Clone the repository:
 
-    $ git clone repo-url
+    $ git clone repo-url repo-name
 
 And then execute:
 
